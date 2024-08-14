@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Aneesh4545/Leetcode/tree/master/0070-climbing-stairs) |
 | [0392-is-subsequence](https://github.com/Aneesh4545/Leetcode/tree/master/0392-is-subsequence) |
 ## Array
 |  |
@@ -39,4 +40,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1319-unique-number-of-occurrences](https://github.com/Aneesh4545/Leetcode/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/Aneesh4545/Leetcode/tree/master/1392-find-the-difference-of-two-arrays) |
+## Math
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Aneesh4545/Leetcode/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Aneesh4545/Leetcode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
