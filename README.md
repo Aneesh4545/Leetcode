@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Aneesh4545/Leetcode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Aneesh4545/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0022-generate-parentheses](https://github.com/Aneesh4545/Leetcode/tree/master/0022-generate-parentheses) |
 | [0392-is-subsequence](https://github.com/Aneesh4545/Leetcode/tree/master/0392-is-subsequence) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Aneesh4545/Leetcode/tree/master/0013-roman-to-integer) |
 | [0041-first-missing-positive](https://github.com/Aneesh4545/Leetcode/tree/master/0041-first-missing-positive) |
 | [1319-unique-number-of-occurrences](https://github.com/Aneesh4545/Leetcode/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/Aneesh4545/Leetcode/tree/master/1392-find-the-difference-of-two-arrays) |
@@ -53,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/Aneesh4545/Leetcode/tree/master/0007-reverse-integer) |
+| [0013-roman-to-integer](https://github.com/Aneesh4545/Leetcode/tree/master/0013-roman-to-integer) |
 | [0070-climbing-stairs](https://github.com/Aneesh4545/Leetcode/tree/master/0070-climbing-stairs) |
 ## Memoization
 |  |
