@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Aneesh4545/Leetcode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Aneesh4545/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0022-generate-parentheses](https://github.com/Aneesh4545/Leetcode/tree/master/0022-generate-parentheses) |
+| [0043-multiply-strings](https://github.com/Aneesh4545/Leetcode/tree/master/0043-multiply-strings) |
 | [0392-is-subsequence](https://github.com/Aneesh4545/Leetcode/tree/master/0392-is-subsequence) |
 ## Dynamic Programming
 |  |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/Aneesh4545/Leetcode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/Aneesh4545/Leetcode/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/Aneesh4545/Leetcode/tree/master/0029-divide-two-integers) |
+| [0043-multiply-strings](https://github.com/Aneesh4545/Leetcode/tree/master/0043-multiply-strings) |
 | [0070-climbing-stairs](https://github.com/Aneesh4545/Leetcode/tree/master/0070-climbing-stairs) |
 ## Memoization
 |  |
@@ -87,4 +89,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/Aneesh4545/Leetcode/tree/master/0029-divide-two-integers) |
+## Simulation
+|  |
+| ------- |
+| [0043-multiply-strings](https://github.com/Aneesh4545/Leetcode/tree/master/0043-multiply-strings) |
 <!---LeetCode Topics End-->
