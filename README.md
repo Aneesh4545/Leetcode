@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Aneesh4545/Leetcode/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/Aneesh4545/Leetcode/tree/master/0029-divide-two-integers) |
 | [0043-multiply-strings](https://github.com/Aneesh4545/Leetcode/tree/master/0043-multiply-strings) |
+| [0050-powx-n](https://github.com/Aneesh4545/Leetcode/tree/master/0050-powx-n) |
 | [0070-climbing-stairs](https://github.com/Aneesh4545/Leetcode/tree/master/0070-climbing-stairs) |
 ## Memoization
 |  |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/Aneesh4545/Leetcode/tree/master/0024-swap-nodes-in-pairs) |
+| [0050-powx-n](https://github.com/Aneesh4545/Leetcode/tree/master/0050-powx-n) |
 ## Bit Manipulation
 |  |
 | ------- |
