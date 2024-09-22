@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/Aneesh4545/Leetcode/tree/master/0050-powx-n) |
 | [0070-climbing-stairs](https://github.com/Aneesh4545/Leetcode/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/Aneesh4545/Leetcode/tree/master/0202-happy-number) |
+| [0231-power-of-two](https://github.com/Aneesh4545/Leetcode/tree/master/0231-power-of-two) |
 ## Memoization
 |  |
 | ------- |
@@ -90,10 +91,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/Aneesh4545/Leetcode/tree/master/0024-swap-nodes-in-pairs) |
 | [0050-powx-n](https://github.com/Aneesh4545/Leetcode/tree/master/0050-powx-n) |
+| [0231-power-of-two](https://github.com/Aneesh4545/Leetcode/tree/master/0231-power-of-two) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/Aneesh4545/Leetcode/tree/master/0029-divide-two-integers) |
+| [0231-power-of-two](https://github.com/Aneesh4545/Leetcode/tree/master/0231-power-of-two) |
 ## Simulation
 |  |
 | ------- |
