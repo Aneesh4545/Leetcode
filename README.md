@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Aneesh4545/Leetcode/tree/master/0022-generate-parentheses) |
 | [0043-multiply-strings](https://github.com/Aneesh4545/Leetcode/tree/master/0043-multiply-strings) |
 | [0392-is-subsequence](https://github.com/Aneesh4545/Leetcode/tree/master/0392-is-subsequence) |
+| [0412-fizz-buzz](https://github.com/Aneesh4545/Leetcode/tree/master/0412-fizz-buzz) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Aneesh4545/Leetcode/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/Aneesh4545/Leetcode/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/Aneesh4545/Leetcode/tree/master/0231-power-of-two) |
+| [0412-fizz-buzz](https://github.com/Aneesh4545/Leetcode/tree/master/0412-fizz-buzz) |
 ## Memoization
 |  |
 | ------- |
@@ -101,4 +103,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/Aneesh4545/Leetcode/tree/master/0043-multiply-strings) |
+| [0412-fizz-buzz](https://github.com/Aneesh4545/Leetcode/tree/master/0412-fizz-buzz) |
 <!---LeetCode Topics End-->
