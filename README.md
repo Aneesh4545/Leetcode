@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/Aneesh4545/Leetcode/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/Aneesh4545/Leetcode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/Aneesh4545/Leetcode/tree/master/0415-add-strings) |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/Aneesh4545/Leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/Aneesh4545/Leetcode/tree/master/0303-range-sum-query-immutable) |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/Aneesh4545/Leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 ## Hash Table
 |  |
 | ------- |
@@ -56,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/Aneesh4545/Leetcode/tree/master/0202-happy-number) |
 | [1319-unique-number-of-occurrences](https://github.com/Aneesh4545/Leetcode/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/Aneesh4545/Leetcode/tree/master/1392-find-the-difference-of-two-arrays) |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/Aneesh4545/Leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 ## Math
 |  |
 | ------- |
@@ -102,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0029-divide-two-integers](https://github.com/Aneesh4545/Leetcode/tree/master/0029-divide-two-integers) |
 | [0231-power-of-two](https://github.com/Aneesh4545/Leetcode/tree/master/0231-power-of-two) |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/Aneesh4545/Leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 ## Simulation
 |  |
 | ------- |
