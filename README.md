@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/Aneesh4545/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [1319-unique-number-of-occurrences](https://github.com/Aneesh4545/Leetcode/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/Aneesh4545/Leetcode/tree/master/1392-find-the-difference-of-two-arrays) |
+| [2048-build-array-from-permutation](https://github.com/Aneesh4545/Leetcode/tree/master/2048-build-array-from-permutation) |
 ## Sliding Window
 |  |
 | ------- |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/Aneesh4545/Leetcode/tree/master/0043-multiply-strings) |
 | [0412-fizz-buzz](https://github.com/Aneesh4545/Leetcode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/Aneesh4545/Leetcode/tree/master/0415-add-strings) |
+| [2048-build-array-from-permutation](https://github.com/Aneesh4545/Leetcode/tree/master/2048-build-array-from-permutation) |
 ## Database
 |  |
 | ------- |
