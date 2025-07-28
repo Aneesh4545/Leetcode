@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/Aneesh4545/Leetcode/tree/master/0041-first-missing-positive) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Aneesh4545/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/Aneesh4545/Leetcode/tree/master/0198-house-robber) |
+| [0268-missing-number](https://github.com/Aneesh4545/Leetcode/tree/master/0268-missing-number) |
 | [0303-range-sum-query-immutable](https://github.com/Aneesh4545/Leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0643-maximum-average-subarray-i](https://github.com/Aneesh4545/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [1319-unique-number-of-occurrences](https://github.com/Aneesh4545/Leetcode/tree/master/1319-unique-number-of-occurrences) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Aneesh4545/Leetcode/tree/master/0013-roman-to-integer) |
 | [0041-first-missing-positive](https://github.com/Aneesh4545/Leetcode/tree/master/0041-first-missing-positive) |
 | [0202-happy-number](https://github.com/Aneesh4545/Leetcode/tree/master/0202-happy-number) |
+| [0268-missing-number](https://github.com/Aneesh4545/Leetcode/tree/master/0268-missing-number) |
 | [1319-unique-number-of-occurrences](https://github.com/Aneesh4545/Leetcode/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/Aneesh4545/Leetcode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Aneesh4545/Leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
@@ -82,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Aneesh4545/Leetcode/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/Aneesh4545/Leetcode/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/Aneesh4545/Leetcode/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/Aneesh4545/Leetcode/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/Aneesh4545/Leetcode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/Aneesh4545/Leetcode/tree/master/0415-add-strings) |
 | [0492-construct-the-rectangle](https://github.com/Aneesh4545/Leetcode/tree/master/0492-construct-the-rectangle) |
@@ -102,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0018-4sum](https://github.com/Aneesh4545/Leetcode/tree/master/0018-4sum) |
+| [0268-missing-number](https://github.com/Aneesh4545/Leetcode/tree/master/0268-missing-number) |
 ## Linked List
 |  |
 | ------- |
@@ -117,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0029-divide-two-integers](https://github.com/Aneesh4545/Leetcode/tree/master/0029-divide-two-integers) |
 | [0231-power-of-two](https://github.com/Aneesh4545/Leetcode/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/Aneesh4545/Leetcode/tree/master/0268-missing-number) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Aneesh4545/Leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 ## Simulation
 |  |
@@ -148,4 +153,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Aneesh4545/Leetcode/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
+## Binary Search
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/Aneesh4545/Leetcode/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
