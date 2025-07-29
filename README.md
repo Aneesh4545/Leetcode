@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/Aneesh4545/Leetcode/tree/master/0031-next-permutation) |
 | [0202-happy-number](https://github.com/Aneesh4545/Leetcode/tree/master/0202-happy-number) |
 | [0392-is-subsequence](https://github.com/Aneesh4545/Leetcode/tree/master/0392-is-subsequence) |
+| [1894-merge-strings-alternately](https://github.com/Aneesh4545/Leetcode/tree/master/1894-merge-strings-alternately) |
 ## String
 |  |
 | ------- |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/Aneesh4545/Leetcode/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/Aneesh4545/Leetcode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/Aneesh4545/Leetcode/tree/master/0415-add-strings) |
+| [1894-merge-strings-alternately](https://github.com/Aneesh4545/Leetcode/tree/master/1894-merge-strings-alternately) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Aneesh4545/Leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 ## Dynamic Programming
 |  |
