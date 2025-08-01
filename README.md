@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/Aneesh4545/Leetcode/tree/master/0031-next-permutation) |
 | [0041-first-missing-positive](https://github.com/Aneesh4545/Leetcode/tree/master/0041-first-missing-positive) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Aneesh4545/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0169-majority-element](https://github.com/Aneesh4545/Leetcode/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/Aneesh4545/Leetcode/tree/master/0198-house-robber) |
 | [0268-missing-number](https://github.com/Aneesh4545/Leetcode/tree/master/0268-missing-number) |
 | [0303-range-sum-query-immutable](https://github.com/Aneesh4545/Leetcode/tree/master/0303-range-sum-query-immutable) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/Aneesh4545/Leetcode/tree/master/0013-roman-to-integer) |
 | [0041-first-missing-positive](https://github.com/Aneesh4545/Leetcode/tree/master/0041-first-missing-positive) |
+| [0169-majority-element](https://github.com/Aneesh4545/Leetcode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/Aneesh4545/Leetcode/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/Aneesh4545/Leetcode/tree/master/0268-missing-number) |
 | [1319-unique-number-of-occurrences](https://github.com/Aneesh4545/Leetcode/tree/master/1319-unique-number-of-occurrences) |
@@ -110,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0018-4sum](https://github.com/Aneesh4545/Leetcode/tree/master/0018-4sum) |
+| [0169-majority-element](https://github.com/Aneesh4545/Leetcode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Aneesh4545/Leetcode/tree/master/0268-missing-number) |
 ## Linked List
 |  |
@@ -162,4 +165,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Aneesh4545/Leetcode/tree/master/0268-missing-number) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Aneesh4545/Leetcode/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Aneesh4545/Leetcode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
