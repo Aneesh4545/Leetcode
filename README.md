@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Aneesh4545/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/Aneesh4545/Leetcode/tree/master/0198-house-robber) |
 | [0392-is-subsequence](https://github.com/Aneesh4545/Leetcode/tree/master/0392-is-subsequence) |
+| [0867-new-21-game](https://github.com/Aneesh4545/Leetcode/tree/master/0867-new-21-game) |
 ## Array
 |  |
 | ------- |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/Aneesh4545/Leetcode/tree/master/0643-maximum-average-subarray-i) |
+| [0867-new-21-game](https://github.com/Aneesh4545/Leetcode/tree/master/0867-new-21-game) |
 ## Design
 |  |
 | ------- |
@@ -101,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/Aneesh4545/Leetcode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/Aneesh4545/Leetcode/tree/master/0415-add-strings) |
 | [0492-construct-the-rectangle](https://github.com/Aneesh4545/Leetcode/tree/master/0492-construct-the-rectangle) |
+| [0867-new-21-game](https://github.com/Aneesh4545/Leetcode/tree/master/0867-new-21-game) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Aneesh4545/Leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Aneesh4545/Leetcode/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [3227-find-missing-and-repeated-values](https://github.com/Aneesh4545/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
@@ -189,4 +192,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3227-find-missing-and-repeated-values](https://github.com/Aneesh4545/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
+## Probability and Statistics
+|  |
+| ------- |
+| [0867-new-21-game](https://github.com/Aneesh4545/Leetcode/tree/master/0867-new-21-game) |
 <!---LeetCode Topics End-->
