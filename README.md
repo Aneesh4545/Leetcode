@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2048-build-array-from-permutation](https://github.com/Aneesh4545/Leetcode/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/Aneesh4545/Leetcode/tree/master/2058-concatenation-of-array) |
 | [3227-find-missing-and-repeated-values](https://github.com/Aneesh4545/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
+| [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/Aneesh4545/Leetcode/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 ## Sliding Window
 |  |
 | ------- |
