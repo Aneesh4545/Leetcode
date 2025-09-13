@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1146-greatest-common-divisor-of-strings](https://github.com/Aneesh4545/Leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1894-merge-strings-alternately](https://github.com/Aneesh4545/Leetcode/tree/master/1894-merge-strings-alternately) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Aneesh4545/Leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/Aneesh4545/Leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1392-find-the-difference-of-two-arrays](https://github.com/Aneesh4545/Leetcode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Aneesh4545/Leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [3227-find-missing-and-repeated-values](https://github.com/Aneesh4545/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/Aneesh4545/Leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Math
 |  |
 | ------- |
@@ -197,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Aneesh4545/Leetcode/tree/master/0169-majority-element) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/Aneesh4545/Leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Matrix
 |  |
 | ------- |
