@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/Aneesh4545/Leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0643-maximum-average-subarray-i](https://github.com/Aneesh4545/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Aneesh4545/Leetcode/tree/master/0745-find-smallest-letter-greater-than-target) |
+| [1018-binary-prefix-divisible-by-5](https://github.com/Aneesh4545/Leetcode/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1319-unique-number-of-occurrences](https://github.com/Aneesh4545/Leetcode/tree/master/1319-unique-number-of-occurrences) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Aneesh4545/Leetcode/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/Aneesh4545/Leetcode/tree/master/1392-find-the-difference-of-two-arrays) |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Aneesh4545/Leetcode/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/Aneesh4545/Leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Aneesh4545/Leetcode/tree/master/0268-missing-number) |
+| [1018-binary-prefix-divisible-by-5](https://github.com/Aneesh4545/Leetcode/tree/master/1018-binary-prefix-divisible-by-5) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Aneesh4545/Leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 ## Simulation
 |  |
