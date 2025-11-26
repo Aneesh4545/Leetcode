@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Aneesh4545/Leetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1580-shuffle-the-array](https://github.com/Aneesh4545/Leetcode/tree/master/1580-shuffle-the-array) |
 | [1603-running-sum-of-1d-array](https://github.com/Aneesh4545/Leetcode/tree/master/1603-running-sum-of-1d-array) |
+| [1929-concatenation-of-array](https://github.com/Aneesh4545/Leetcode/tree/master/1929-concatenation-of-array) |
 | [2048-build-array-from-permutation](https://github.com/Aneesh4545/Leetcode/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/Aneesh4545/Leetcode/tree/master/2058-concatenation-of-array) |
 | [3227-find-missing-and-repeated-values](https://github.com/Aneesh4545/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/Aneesh4545/Leetcode/tree/master/0043-multiply-strings) |
 | [0412-fizz-buzz](https://github.com/Aneesh4545/Leetcode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/Aneesh4545/Leetcode/tree/master/0415-add-strings) |
+| [1929-concatenation-of-array](https://github.com/Aneesh4545/Leetcode/tree/master/1929-concatenation-of-array) |
 | [2048-build-array-from-permutation](https://github.com/Aneesh4545/Leetcode/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/Aneesh4545/Leetcode/tree/master/2058-concatenation-of-array) |
 ## Database
