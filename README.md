@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1319-unique-number-of-occurrences](https://github.com/Aneesh4545/Leetcode/tree/master/1319-unique-number-of-occurrences) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Aneesh4545/Leetcode/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/Aneesh4545/Leetcode/tree/master/1392-find-the-difference-of-two-arrays) |
+| [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Aneesh4545/Leetcode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Aneesh4545/Leetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1580-shuffle-the-array](https://github.com/Aneesh4545/Leetcode/tree/master/1580-shuffle-the-array) |
 | [1603-running-sum-of-1d-array](https://github.com/Aneesh4545/Leetcode/tree/master/1603-running-sum-of-1d-array) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Aneesh4545/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Aneesh4545/Leetcode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Aneesh4545/Leetcode/tree/master/0268-missing-number) |
+| [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Aneesh4545/Leetcode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 ## Linked List
 |  |
 | ------- |
